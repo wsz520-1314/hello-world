@@ -50,6 +50,22 @@ proxies:
 - client-fingerprint: chrome
   encryption: none
   flow: xtls-rprx-vision
+  name: 🔴🇹🇼_github.com/Ruk1ng001_ccd6836e
+  network: tcp
+  port: 54387
+  reality-opts:
+    public-key: qqb-vrDIPSrFIithw497zM-LmGUEcTo-dqAjhHi6kyY
+    short-id: f810
+  server: 1.sdwan.realm-sync.com
+  servername: swcdn.apple.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: e0c3a80e-6290-4c29-9605-fbd6c4fb3322
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
   http-opts:
     headers: {}
     path:
@@ -461,6 +477,22 @@ proxies:
   type: vless
   udp: true
   uuid: adea61c0-0bb2-4ad3-8dba-7766eebd50f8
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: 🟢🇺🇸[🎬]_github.com/Ruk1ng001_6f43625b
+  network: tcp
+  port: 51700
+  reality-opts:
+    public-key: cJ0oDse0aPBi7c4UCxQgMP1UNoBPZ2NDB8aL_17G0HQ
+    short-id: d18340
+  server: 23.141.52.196
+  servername: www.amd.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: e6082798-61ab-4167-9653-67883f5f0166
   xudp: true
 - client-fingerprint: chrome
   encryption: none
